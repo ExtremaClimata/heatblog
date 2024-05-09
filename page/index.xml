@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on HeatAlert Blog</title>
+        <link>http://localhost:1313/heatblog/page/</link>
+        <description>Recent content in Pages on HeatAlert Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/heatblog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archivo</title>
+        <link>http://localhost:1313/heatblog/archivo/</link>
+        <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/heatblog/archivo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Buscar</title>
+        <link>http://localhost:1313/heatblog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/heatblog/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Enlaces</title>
+        <link>http://localhost:1313/heatblog/enlaces/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/heatblog/enlaces/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

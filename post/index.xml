@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on HeatAlert Blog</title>
+        <link>http://localhost:1313/heatblog/post/</link>
+        <description>Recent content in Posts on HeatAlert Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 08 May 2024 20:40:51 +0000</lastBuildDate><atom:link href="http://localhost:1313/heatblog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>⚡ Posible interrupción del servicio del HEWS debido a Estado de Alerta en operación del Sistema Eléctrico Nacional.</title>
+        <link>http://localhost:1313/heatblog/p/posible-interrupci%C3%B3n-del-servicio-del-hews-debido-a-estado-de-alerta-en-operaci%C3%B3n-del-sistema-el%C3%A9ctrico-nacional./</link>
+        <pubDate>Wed, 08 May 2024 20:40:51 +0000</pubDate>
+        
+        <guid>http://localhost:1313/heatblog/p/posible-interrupci%C3%B3n-del-servicio-del-hews-debido-a-estado-de-alerta-en-operaci%C3%B3n-del-sistema-el%C3%A9ctrico-nacional./</guid>
+        <description>&lt;p&gt;A las 14:46 del día 8 de mayo del 2024, &lt;a class=&#34;link&#34; href=&#34;https://www.cenace.gob.mx/Docs/EstadoOperativoSEN/2024/2024-05-08__SIN24-0078.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;el CENACE indicó el Estado de Alerta en el Sistema Eléctrico Nacional (SEN), por lo que la posibilidad de apagones programados es existente&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aunque HeatAlert funciona con energía solar, las varianzas en la nubosidad pueden ocasionar que no se genere el voltaje necesario para alimentar una Estación de Monitoreo y Alerta (EMA) durante un apagón. Es por ello que es respaldado con energía eléctrica proveniente del SEN.&lt;/p&gt;
+&lt;p&gt;En el dado caso que se presentara una interrupción en el servicio, se notificará pertinentemente a través de este blog y por una notificación en la app HeatAlert.&lt;/p&gt;
+&lt;p&gt;Manténgase seguro y siga las instrucciones de las autoridades.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HeatAlert se encuentra funcionando para la Segunda Ola de Calor (2024) en México</title>
+        <link>http://localhost:1313/heatblog/p/hews-activo-2024/</link>
+        <pubDate>Wed, 08 May 2024 12:05:32 +0000</pubDate>
+        
+        <guid>http://localhost:1313/heatblog/p/hews-activo-2024/</guid>
+        <description>&lt;img src="http://localhost:1313/heatblog/p/hews-activo-2024/hewsonline2024.svg" alt="Featured image of post HeatAlert se encuentra funcionando para la Segunda Ola de Calor (2024) en México" /&gt;&lt;p&gt;El HeatAlert Early Warning System (HEWS) se encuentra en línea y trabajando para proteger a los usuarios de la app HeatAlert. En caso de cualquier incidencia o interrupción del servicio, se notificará por este medio.&lt;/p&gt;
+&lt;p&gt;¡Gracias por confiar en HeatAlert!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
