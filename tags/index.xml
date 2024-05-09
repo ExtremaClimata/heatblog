@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on HeatAlert Blog</title>
-        <link>http://localhost:1313/heatblog/tags/</link>
+        <link>https://extremaclimata.github.io/heatblog/tags/</link>
         <description>Recent content in Tags on HeatAlert Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Wed, 08 May 2024 20:40:51 +0000</lastBuildDate><atom:link href="http://localhost:1313/heatblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 May 2024 20:40:51 +0000</lastBuildDate><atom:link href="https://extremaclimata.github.io/heatblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Incidentes</title>
-        <link>http://localhost:1313/heatblog/tags/incidentes/</link>
+        <link>https://extremaclimata.github.io/heatblog/tags/incidentes/</link>
         <pubDate>Wed, 08 May 2024 20:40:51 +0000</pubDate>
         
-        <guid>http://localhost:1313/heatblog/tags/incidentes/</guid>
+        <guid>https://extremaclimata.github.io/heatblog/tags/incidentes/</guid>
         <description></description>
         </item>
         <item>
         <title>Anuncios</title>
-        <link>http://localhost:1313/heatblog/tags/anuncios/</link>
+        <link>https://extremaclimata.github.io/heatblog/tags/anuncios/</link>
         <pubDate>Wed, 08 May 2024 12:05:32 +0000</pubDate>
         
-        <guid>http://localhost:1313/heatblog/tags/anuncios/</guid>
+        <guid>https://extremaclimata.github.io/heatblog/tags/anuncios/</guid>
         <description></description>
         </item>
         
